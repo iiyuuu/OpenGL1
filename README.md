@@ -1,2 +1,3 @@
 # OpenGL1
-hw1
+Nathan Nguyen
+1629979
