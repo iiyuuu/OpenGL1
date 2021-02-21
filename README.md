@@ -10,4 +10,4 @@ VSCode using C++ and CodeRunner extension
 
 `g++ filename.cpp -o (name of executable)` sets the name of the executable file and compiles it  
 `chmood u+x name` allows the file to read and write  
-`./name radius` run the file with radius command line argument  
+`./name arg` run the file with command line argument(s)  
