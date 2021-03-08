@@ -1,0 +1,16 @@
+﻿  main.cpp
+C:\Users\nnath\Downloads\hw2_undergraduate\main.cpp(54,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\nnath\Downloads\hw2_undergraduate\main.cpp(113,49): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nnath\Downloads\hw2_undergraduate\main.cpp(113,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nnath\Downloads\hw2_undergraduate\main.cpp(126,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\nnath\Downloads\hw2_undergraduate\main.cpp(151,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\nnath\Downloads\hw2_undergraduate\main.cpp(160,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\nnath\Downloads\hw2_undergraduate\main.cpp(160,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nnath\Downloads\hw2_undergraduate\main.cpp(163,44): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\nnath\Downloads\hw2_undergraduate\main.cpp(163,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nnath\Downloads\hw2_undergraduate\main.cpp(173,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nnath\Downloads\hw2_undergraduate\main.cpp(180,45): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\nnath\Downloads\hw2_undergraduate\main.cpp(180,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nnath\Downloads\hw2_undergraduate\main.cpp(220,12): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nnath\Downloads\hw2_undergraduate\main.cpp(242,46): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+  OpenGL.vcxproj -> C:\Users\nnath\source\repos\OpenGL\Debug\OpenGL.exe
