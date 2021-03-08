@@ -14,3 +14,4 @@ VSCode using C++ and CodeRunner extension
 -Hold left click and move the mouse to move the camera  
 -Hold right click and move the mouse to zoom in our out  
 -Press keys 1-4 to go to each image in the problem  
+-Use the Visual Studio solution and files to edit with Visual Studio  
