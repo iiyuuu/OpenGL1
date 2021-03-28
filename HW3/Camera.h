@@ -68,11 +68,13 @@ public:
     // TODO: Returns the view matrix calculated using Eular Angles and the LookAt Matrix
     glm::mat4 GetViewMatrix()
     {
-        float radius = 10.0f;
-        float camX = sin(glfwGetTime()) * radius;
-        float camZ = cos(glfwGetTime()) * radius;
-        glm::mat4 view = glm::lookAt(glm::vec3(camX, 0.0, camZ), glm::vec3(0.0, 0.0, 0.0), glm::vec3(0.0, 1.0, 0.0));
+        //float radius = 10.0f;
+        //float camX = sin(glfwGetTime()) * radius;
+        //float camZ = cos(glfwGetTime()) * radius;
+        //glm::mat4 view = glm::lookAt(glm::vec3(camX, 0.0, camZ), glm::vec3(0.0, 0.0, 0.0), glm::vec3(0.0, 1.0, 0.0));
         return glm::lookAt(Position, Position + Front, Up);
+
+       
     }
 
     // Processes input received from any keyboard-like input system. Accepts input parameter in the form of camera defined ENUM (to abstract it from windowing systems)

@@ -1,6 +1,4 @@
 ﻿  main.cpp
-C:\Users\nnath\Desktop\OpenGL1\HW3\Camera.h(72,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\nnath\Desktop\OpenGL1\HW3\Camera.h(73,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
 C:\Users\nnath\Desktop\OpenGL1\HW3\main.cpp(158,30): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
 C:\Users\nnath\Desktop\OpenGL1\HW3\main.cpp(247,17): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
 C:\Users\nnath\Desktop\OpenGL1\HW3\main.cpp(248,17): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
