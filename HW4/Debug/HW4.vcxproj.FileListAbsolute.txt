@@ -1,0 +1,2 @@
+C:\Users\nnath\Desktop\OpenGL1\HW4\Debug\HW4.exe
+C:\Users\nnath\Desktop\OpenGL1\HW4\Debug\HW4.pdb
